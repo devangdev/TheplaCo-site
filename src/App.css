@@ -364,13 +364,43 @@
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  gap: 0.4rem;
-  font-size: 0.8rem;
-  color: #b4d3c4;
+  gap: 1.2rem;
 }
 
 .footer-tagline {
   font-style: italic;
+}
+.footer-section {
+  min-width: 180px;
+}
+
+.footer-title {
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+  color: #e7fff2;
+}
+
+.footer-socials {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.footer-icon {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  color: #c9eedd;
+  text-decoration: none;
+}
+
+.footer-icon:hover {
+  color: #7cf2ae;
+}
+
+.footer-line {
+  color: #9ccfba;
+  font-size: 0.85rem;
 }
 
 /* Responsive */
