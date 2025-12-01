@@ -42,6 +42,17 @@ function ContactSection() {
               <strong>Address:</strong> Pune, Maharashtra
             </p>
           </div>
+          <div className="contact-socials">
+            <a href="https://www.instagram.com/theplacoindia/" target="_blank" rel="noopener noreferrer">
+              Instagram → @theplacoindia
+            </a>
+            <a href="https://www.swiggy.com/city/pune/theplaco-kharadi-rest936753?source=sharing"
+              target="_blank"
+              rel="noopener noreferrer">
+              Order on Swiggy →
+            </a>
+          </div>
+
         </div>
 
         <form className="contact-form" onSubmit={handleSubmit}>

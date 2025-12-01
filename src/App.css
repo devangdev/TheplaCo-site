@@ -349,6 +349,16 @@
   margin-top: 0.2rem;
   color: #9cf7c6;
 }
+.contact-socials a {
+  display: block;
+  color: #9cf7c6;
+  margin-top: 0.3rem;
+  font-size: 0.88rem;
+}
+.contact-socials a:hover {
+  color: #7cf2ae;
+}
+
 
 /* Footer */
 

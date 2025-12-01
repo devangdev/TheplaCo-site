@@ -1,4 +1,3 @@
-import React from "react";
 import { FaInstagram, FaMapMarkerAlt } from "react-icons/fa";
 
 function Footer() {
@@ -38,7 +37,7 @@ function Footer() {
 
         <div className="footer-section">
           <p className="footer-line">© {new Date().getFullYear()} TheplaCo</p>
-          <p className="footer-line">Built with ❤️ by Devang</p>
+          <p className="footer-line">Built by Devang</p>
         </div>
 
       </div>
