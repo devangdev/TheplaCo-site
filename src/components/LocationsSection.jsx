@@ -11,9 +11,9 @@ const LOCATIONS = [
     note: "Dine-in · Takeaway",
   },
   {
-    name: "TheplaCo – Pune (Branch 2)",
+    name: "TheplaCo – Gangadham ",
     city: "Pune",
-    address: "See Google Maps for exact pin (same timings as Kharadi branch).",
+    address: "Shop No. 40, Gagan Samrudhi, Ganga Dham Rd, Phase 1, Bibwewadi, Pune, Maharashtra 411037",
     timings: "Mon–Sat: 9:30 AM – 10:30 PM · Sun: 8:30 AM – 10:30 PM",
     note: "Dine-in · Takeaway",
   },
