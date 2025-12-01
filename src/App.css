@@ -398,6 +398,16 @@
     padding: 0.7rem 1rem;
     border-radius: 16px;
     border: 1px solid rgba(255, 255, 255, 0.08);
+    opacity: 0;
+    pointer-events: none;
+    transform: translateY(-6px);
+    transition: opacity 0.18s ease, transform 0.18s ease;
+  }
+  .nav-links.open {
+    /* shown when isOpen === true */
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateY(0);
   }
 
   .burger {
